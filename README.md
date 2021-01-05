@@ -1,4 +1,4 @@
-# BCS_Classwork_PandasChallenge
+# PandasChallenge
 
 # Pandas Homework - Pandas, Pandas, Pandas
 
